@@ -5,4 +5,4 @@ I got a late start on it because I was out. Ended up with just 2 hours to tackle
 - Also first I used my rollnumber 1NT20CS020 but couldn't catch the clientID and secret . Then used NT20CS021 for registering. 
 ![Screenshot](Screenshot%202023-08-15%20132649.png)
 
-![Screenshot](Screenshot%202023-08-15%133228.png)
+<!--![Screenshot](Screenshot%202023-08-15%133228.png) -->
